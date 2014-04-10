@@ -1,0 +1,16 @@
+{
+    "name": "voceconnect/disqus-wordpress",
+    "description": "Disqus with the ability to add JS callbacks via an action",
+    "keywords": ["wordpress", "disqus", "comment", "comments", "commenting"],
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Mat Gargano",
+            "email": "mat@voceconnect.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "autoload": {
+        "files": ["disqus.php"]
+    }
+}
